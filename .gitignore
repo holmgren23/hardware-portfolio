@@ -1,0 +1,33 @@
+# --- Hemligheter / credentials ---
+# WiFi-lösenord, API-nycklar och liknande får aldrig checkas in.
+secrets.h
+credentials.h
+arduino_secrets.h
+*.env
+.env
+.env.*
+
+# --- Arduino / build-artefakter ---
+*.hex
+*.elf
+*.bin
+*.o
+*.d
+build/
+*/build/
+.build/
+
+# --- IDE / editor ---
+.vscode/
+.pio/
+.idea/
+*.iml
+
+# --- OS-skräp ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Personliga sökvägar / lokala filer ---
+*.local
+local/
