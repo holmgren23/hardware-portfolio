@@ -15,7 +15,6 @@ tanken är att en läsare ska förstå bygget utan att själv köra koden.
 | **WiFi-vakt** | Passiv detektering av deauth- och beacon-flood-aktivitet på ESP32, med larm på LCD | [wifi-vakt](./wifi-vakt) |
 | **Termometer med LCD** | Temperaturmätning med DS18B20 (1-Wire) och utskrift på LCD | [termometer-lcd](./termometer-lcd) |
 | **DS1302-klocka** | Realtidsklocka (RTC) med DS1302 — tid och temperatur på LCD | [ds1302-klocka](./ds1302-klocka) |
-| **Hello World LCD** | Grundläggande I²C-LCD-test, min startpunkt för displayprojekten | [hello-world-lcd](./hello-world-lcd) |
 | **Komponentkatalog** | Strukturerad Excel-katalog över min komponentsamling | [komponent-katalog](./komponent-katalog) |
 
 ## Om labbmiljön
